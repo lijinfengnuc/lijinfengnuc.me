@@ -120,8 +120,8 @@ feed:
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: https://github.com/lijinfengnuc/lijinfengnuc.github.io.git
-  branch: master
-  message: Update first post
+##deploy:
+  ##type: git
+  ##repo: https://github.com/lijinfengnuc/lijinfengnuc.github.io.git
+  ##branch: master
+  ##message: Update first post
