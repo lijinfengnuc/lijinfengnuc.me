@@ -1,11 +1,12 @@
 ---
 title: 长眠
-date: 2020-05-13 11:33:30
 categories: 现代诗歌
 tags:
   - 双雪涛
   - 平原上的摩西
   - 长眠
+abbrlink: 7bf1bd9e
+date: 2020-05-13 11:33:30
 ---
 
 长眠
