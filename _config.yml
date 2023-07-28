@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 愿君详
-subtitle: 'wish you know more'
+title: 程序员青白
+subtitle: 'coder_qingbai'
 description: '果不如先愿，又非君所详'
-keywords: 愿君详,青白,Java,Go,Algorithm,Design Pattern,Cloud Native,Kubernetes,Docker,Istio,Prometheus,算法,设计模式,云原生
+keywords: 程序员青白,程序员,青白,Java,Go,Algorithm,Design Pattern,Cloud Native,Kubernetes,Docker,Istio,Prometheus,算法,设计模式,云原生
 author: 青白
 language: zh-CN
 timezone: 'Asia/Shanghai'
