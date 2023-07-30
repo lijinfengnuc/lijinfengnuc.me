@@ -7,3 +7,6 @@ date: 2023-07-16 15:05:08
 > <p align="right">——双雪涛《飞行家》</p>
 
 青白，新晋奶爸，京东高级开发工程师，一个简单的人，热爱生活，喜欢编程。
+关注微信公众号查看最新文章。
+
+<img src="/images/wechat_search_union_standard.png" alt="程序员青白" width="300" height="100" align="center">
